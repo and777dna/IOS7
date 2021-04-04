@@ -1,1 +1,1 @@
-./tradelog.sh -t TSLA -t V stock-2.log
+./tradelog -t TSLA -t V stock-2.log
