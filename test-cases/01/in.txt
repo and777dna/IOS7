@@ -1,1 +1,1 @@
-cat stock-2.log | head -n 5 | ./tradelog.sh
+cat stock-2.log | head -n 5 | ./tradelog
