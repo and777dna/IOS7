@@ -1,1 +1,1 @@
-./tradelog.sh list-tick stock-2.log
+./tradelog list-tick stock-2.log
