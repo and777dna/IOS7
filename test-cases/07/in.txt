@@ -1,1 +1,1 @@
-./tradelog.sh pos stock-2.log
+./tradelog pos stock-2.log
