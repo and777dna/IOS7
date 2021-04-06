@@ -1,1 +1,1 @@
-./tradelog.sh -t TSM -t PYPL profit stock-2.log
+./tradelog -t TSM -t PYPL profit stock-2.log
