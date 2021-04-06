@@ -1,1 +1,1 @@
-cat /dev/null | ./tradelog.sh profit
+cat /dev/null | ./tradelog profit
