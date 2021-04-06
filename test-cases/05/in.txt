@@ -1,1 +1,1 @@
-./tradelog.sh profit stock-2.log
+./tradelog profit stock-2.log
