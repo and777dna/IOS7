@@ -1,1 +1,1 @@
-./tradelog.sh last-price stock-2.log
+./tradelog last-price stock-2.log
